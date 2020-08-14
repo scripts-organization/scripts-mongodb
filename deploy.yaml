@@ -62,4 +62,4 @@ spec:
   ports:
     - name: mongoport
       port: 27017
-  type: ClusterIP
+  type: NodePort
