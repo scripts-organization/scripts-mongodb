@@ -7,7 +7,7 @@ spec:
     matchLabels:
       app: mongodb
   replicas: 1
-  template: # template for the pods
+  template: # template for the  pods
     metadata:
       labels:
         app: mongodb
